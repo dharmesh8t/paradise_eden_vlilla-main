@@ -270,7 +270,7 @@ header {
 
 /* Hero */
 #hero {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('./assets/_hero_villa_exterior.png');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('./assets/hero_villa_exterior.png');
   background-size: cover;
   background-position: center;
   height: 100dvh;
